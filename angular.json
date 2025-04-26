@@ -77,7 +77,8 @@
               "buildTarget": "TODOapp:build:production"
             },
             "development": {
-              "buildTarget": "TODOapp:build:development"
+              "buildTarget": "TODOapp:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

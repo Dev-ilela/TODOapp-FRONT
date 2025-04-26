@@ -1,0 +1,7 @@
+{
+    "/api": {
+      "target": "https://seu-backend.render.com",
+      "secure": false
+    }
+  }
+  
